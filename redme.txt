@@ -1,0 +1,3 @@
+Its a practice project that implemented first with prop drilling and we want to refactor this with context state management
+this practice project is originally from Maximilian Schwarzmüller's react course. 
+thanks to him, my react knowledge is improving day by day
